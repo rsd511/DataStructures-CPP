@@ -3,7 +3,7 @@ using namespace std;
 
 
 // Visit the following link for the documentation:-
-// ( Will be added soon )
+// https://github.com/rsd511/DataStructures-CPP/tree/master/stack
 
 // FUNCTIONS AVAILABLE:-
 // 1. Push(int);
@@ -193,6 +193,6 @@ public:
 
 int main()
 {
-
+	
 	return 0;
 }
