@@ -4,10 +4,10 @@
 ## Present 
 
  - Stack
-
+ - Queue (Linked List)
+ 
 ## Upcoming 
 
- - Queue (Linked List)
  - Double Ended Queue
  - Circular Queue
  - Circular Double Ended Queue
