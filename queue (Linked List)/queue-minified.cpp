@@ -3,7 +3,7 @@ using namespace std;
 
 
 // Visit the following link for the documentation:-
-// Will be added soon
+// https://github.com/rsd511/DataStructures-CPP/tree/master/queue%20(Linked%20List)
 
 // FUNCTIONS AVAILABLE:-
 // 1. Push(int);
