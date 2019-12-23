@@ -5,10 +5,10 @@
 
  - Stack
  - Queue (Linked List)
+ - Double Ended Queue (Deque)
  
 ## Upcoming 
 
- - Double Ended Queue
  - Circular Queue
  - Circular Double Ended Queue
  - Priority Queue (Heap)
