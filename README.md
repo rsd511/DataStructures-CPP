@@ -4,16 +4,15 @@
 ## Present 
 
  - Stack
- - Queue (Linked List)
+ - Linked List (Queue)
  - Double Ended Queue (Deque)
+ - Circular Queue (Cqueue)
  
 ## Upcoming 
 
- - Circular Queue
  - Circular Double Ended Queue
  - Priority Queue (Heap)
  - Binary Search Tree
- - Graph
  - AVL Tree
  - Red Black Tree
 
