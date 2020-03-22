@@ -7,10 +7,10 @@
  - Linked List (Queue)
  - Double Ended Queue (Deque)
  - Circular Queue (Cqueue)
+ - Circular Double Ended Queue (Cdeque)
  
 ## Upcoming 
 
- - Circular Double Ended Queue
  - Priority Queue (Heap)
  - Binary Search Tree
  - AVL Tree
