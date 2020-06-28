@@ -8,10 +8,10 @@
  - Double Ended Queue (Deque)
  - Circular Queue (Cqueue)
  - Circular Double Ended Queue (Cdeque)
+ - Priority Queue (Heap)
  
 ## Upcoming 
 
- - Priority Queue (Heap)
  - Binary Search Tree
  - AVL Tree
  - Red Black Tree
