@@ -176,7 +176,7 @@ public:
 		}
 		return res;
 	}
-	int max() {
+	int Max() {
 		if(root == nullptr) {
 			cout << "Error : BST is Empty" << endl;
 			return -1;
@@ -186,7 +186,7 @@ public:
 			temp = temp->right;
 		return temp->data;
 	}
-	int min() {
+	int Min() {
 		if(root == nullptr) {
 			cout << "Error : BST is Empty" << endl;
 			return -1;

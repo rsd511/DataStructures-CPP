@@ -333,7 +333,7 @@ public:
 
 
 	// Max Value
-	int max() {
+	int Max() {
 
 		// BST Empty
 		if(root == nullptr) {
@@ -354,7 +354,7 @@ public:
 
 
 	// Min Value
-	int min() {
+	int Min() {
 
 		// BST Empty
 		if(root == nullptr) {
